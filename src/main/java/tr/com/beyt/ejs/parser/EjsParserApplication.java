@@ -1,4 +1,4 @@
-package tr.com.beyt.test;
+package tr.com.beyt.ejs.parser;
 
 import javax.script.ScriptEngine;
 import javax.script.ScriptEngineManager;
